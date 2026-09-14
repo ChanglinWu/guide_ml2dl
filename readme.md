@@ -1,0 +1,1 @@
+this will be a full view from ml to dl, introducing the concepts of machine learning and deep learning, their differences, applications, and how they are interconnected. We will explore various algorithms, techniques, and frameworks used in both fields, providing a comprehensive understanding for beginners and enthusiasts alike.
